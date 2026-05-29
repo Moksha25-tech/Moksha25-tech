@@ -129,17 +129,7 @@ Production caching system in Java. Memory-efficient LRU with TTL expiry, REST AP
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Moksha25-tech&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moksha25-tech&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
-
-<br/><br/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Moksha25-tech&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3)](https://git.io/streak-stats)
-
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Moksha25-tech&theme=onestar&no-frame=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
