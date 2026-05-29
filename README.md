@@ -16,11 +16,11 @@
 ## 🧠 About
 
 ```yaml
-name         :       Moksha Choksi
-college      :    IIIT Hyderabad  (ECE, class of 2028)
-focus        :      ML systems · Distributed systems · Full-stack engineering
-intern       :     Technology Intern @ Chubb  —  shipped production LRU cache in Java/Spring Boot
-jee          :        99.78 percentile  (AIR 3609)
+name         : Moksha Choksi
+college      : IIIT Hyderabad  (ECE, class of 2028)
+focus        : ML systems · Distributed systems · Full-stack engineering
+intern       : Technology Intern @ Chubb  —  shipped production LRU cache in Java/Spring Boot
+jee          : 99.78 percentile  (AIR 3609)
 looking_for  : SWE / ML / backend internships  —  Winter 2026 / Summer 2027
 ```
 
