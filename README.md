@@ -4,9 +4,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moksha.choksi@students.iiit.ac.in)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moksha-choksi-2446b7326/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choksimoksha92@gmail.com)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mpchoksi2586)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Moksha25-tech)
 
 </div>
@@ -16,21 +16,21 @@
 ## 🧠 About
 
 ```yaml
-name:       Moksha Choksi
-college:    IIIT Hyderabad  (ECE, class of 2028)
-focus:      ML systems · Distributed systems · Full-stack engineering
-intern:     Technology Intern @ Chubb  —  shipped production LRU cache in Java/Spring Boot
-jee:        99.78 percentile  (AIR 3609)
-looking_for: SWE / ML / backend internships  —  Winter 2026 / Summer 2027
+name         :       Moksha Choksi
+college      :    IIIT Hyderabad  (ECE, class of 2028)
+focus        :      ML systems · Distributed systems · Full-stack engineering
+intern       :     Technology Intern @ Chubb  —  shipped production LRU cache in Java/Spring Boot
+jee          :        99.78 percentile  (AIR 3609)
+looking_for  : SWE / ML / backend internships  —  Winter 2026 / Summer 2027
 ```
 
-I like problems where **correctness and performance** both matter — whether that's a caching layer taking load off a production DB, a distributed file system failing over without dropping data, or an ML pipeline that actually generalises. Less "hello world", more "what happens at 1000 concurrent clients".
+I like problems where **correctness and performance** both matter whether that's a caching layer taking load off a production DB, a distributed file system failing over without dropping data, or an ML pipeline that actually generalises. Less "hello world", more "what happens at 1000 concurrent clients".
 
 ---
 
 ## 💼 Experience
 
-**Technology Intern — Chubb** &nbsp;`Jun 2025 – Jul 2025`
+**Technology Intern - Chubb** &nbsp;`Jun 2025 – Jul 2025`
 
 > Architected and deployed a production-grade caching layer to eliminate redundant DB queries in live backend services. Built an LRU cache from scratch in Java with TTL expiry, full REST management API, CLI tooling for ops, and a background cleanup thread. System went to production.
 
@@ -48,7 +48,7 @@ I like problems where **correctness and performance** both matter — whether th
 
 TCP-based NFS from scratch in C. Distributed client-server model with file striping across **1000+ nodes**, support for **1000+ concurrent clients**, automatic failover, and real-time data replication.
 
-> Fault tolerance without a framework — just sockets, threads, and careful protocol design.
+> Fault tolerance without a framework just sockets, threads, and careful protocol design.
 
 `C` `TCP/IP` `OS` `Fault Tolerance` `Replication`
 
@@ -59,7 +59,7 @@ TCP-based NFS from scratch in C. Distributed client-server model with file strip
 
 End-to-end ML pipeline: **image → (lat, lng, region)**. Deep learning ensemble in PyTorch + k-NN post-processing. Handles data preprocessing, training, and inference from a single pipeline.
 
-> Computer vision meets geography — no GPS, just pixels.
+> Computer vision meets geography - no GPS, just pixels.
 
 `Python` `PyTorch` `OpenCV` `Hugging Face` `k-NN`
 
@@ -125,7 +125,7 @@ Production caching system in Java. Memory-efficient LRU with TTL expiry, REST AP
 
 ---
 
-## 📊 Stats
+## Stats
 
 <div align="center">
 
@@ -135,7 +135,7 @@ Production caching system in Java. Memory-efficient LRU with TTL expiry, REST AP
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
